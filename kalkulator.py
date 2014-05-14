@@ -1,4 +1,7 @@
 def dodawanie(a, b):
     return a+b
+
+l1 = int(input("wporwadz pierwsza liczbe"))
+l2 = int(input("wprowadz druga liczbe"))
     
-dodawanie()
+print(dodawanie(l1,l2))
