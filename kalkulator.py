@@ -6,7 +6,7 @@ def dodawanie(a, b):
     
 get_info()    
 
-l1 = int(input("wporwadz pierwsza liczbe"))
+l1 = int(input("wporwadz pierwsza liczbe 2"))
 l2 = int(input("wprowadz druga liczbe"))
     
 print(dodawanie(l1,l2))
